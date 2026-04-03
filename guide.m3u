@@ -175,77 +175,12 @@ https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-id="La7Cinema.it" tvg-chno="29" group-title="Altro",LA7 CINEMA
+
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-chno="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/LA7_Cinema.svg/1280px-LA7_Cinema.svg.png" group-title="Altro",LA7 CINEMA
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
-#EXTINF:-1 tvg-id="ArteHd.it" tvg-chno="48" group-title="Altro",ARTE HD
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-#EXTINF:-1 tvg-id="MezzoHd.it" tvg-chno="49" group-title="Musica",MEZZO HD
-https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
-#EXTINF:-1 tvg-id="EquTv.it" tvg-chno="51" group-title="Sport",EQUTV
-https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
-#EXTINF:-1 tvg-id="AciSportTv.it" tvg-chno="52" group-title="Sport",ACI SPORT TV
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="SiSoloCalcio.it" tvg-chno="54" group-title="Sport",SI Solo Calcio
-https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.it" tvg-chno="58" group-title="News",Euronews
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992
-#EXTINF:-1 tvg-id="JeweloTv.it" tvg-chno="61" group-title="Altro",JEWELO TV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
-#EXTINF:-1 tvg-id="RtlCaliente.it" tvg-chno="62" group-title="Radio",RTL 102.5 Caliente
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/manifest.mpd
-#EXTINF:-1 tvg-id="RadioItaliaLive.it" tvg-chno="63" group-title="Radio",Radio Italia Live
-https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="France24Eng.it" tvg-chno="69" group-title="News",France 24 ENG
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="BbcNewsEurope.it" tvg-chno="70" group-title="News",BBC News Europe
+#EXTINF:-1 tvg-id="BbcNewsEurope.it" tvg-chno="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/1280px-Euronews_Logo_2025.svg.png" group-title="News",BBC News Europe
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEng.it" tvg-chno="71" group-title="News",Al Jazeera ENG
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="TrtWorldHd.it" tvg-chno="72" group-title="News",TRT WORLD HD
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="NhkWorldJapan.it" tvg-chno="73" group-title="News",NHR WORLD JAPAN
-https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="Freedom.it" tvg-chno="74" group-title="News",FREEDOM
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-id="France24.it" tvg-chno="75" group-title="News",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="DimTv.it" tvg-chno="76" group-title="Altro",DIM TV
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraHd.it" tvg-chno="77" group-title="News",Al Jazeera HD
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="Cnbc.it" tvg-chno="81" group-title="News",CNBC
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="BloombergEurope.it" tvg-chno="82" group-title="News",Bloomberg Europe
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="Dw.it" tvg-chno="85" group-title="News",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="EuronewsEng.it" tvg-chno="86" group-title="News",Euronews ENG
+#EXTINF:-1 tvg-id="EuronewsEng.it" tvg-chno="86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/1280px-Euronews_Logo_2025.svg.png" group-title="News",Euronews ENG
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Cgtn.it" tvg-chno="87" group-title="News",CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CgtnDoc.it" tvg-chno="88" group-title="News",CGTN DOC
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="SenatoTv.it" tvg-chno="89" group-title="Istituzioni",Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="CameraDeputati.it" tvg-chno="90" group-title="Istituzioni",Camera dei Deputati
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-id="Cctv4.it" tvg-chno="92" group-title="News",CCTV 4
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Museum.it" tvg-chno="220" group-title="Cultura",Museum
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="MyzenTv.it" tvg-chno="222" group-title="Altro",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.it" tvg-chno="225" group-title="Altro",Travelxp
+#EXTINF:-1 tvg-id="Travelxp.it" tvg-chno="225" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTs-gapHAmW1o7tWMQKe3mJg8AKO8eLiHjA&s" group-title="Altro",Travelxp
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleradiopace.it" tvg-chno="412" group-title="Religione",TELERADIOPACE
-https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HorseTv.it" tvg-chno="444" group-title="Sport",HORSE TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ParoleDiVita.it" tvg-chno="454" group-title="Religione",Parole di Vita
-https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:-1 tvg-id="Uninettuno.it" tvg-chno="701" group-title="Istruzione",UNINETTUNO UNIVERSITY TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-id="Videolina.it" tvg-chno="819" group-title="Regionali",VIDEOLINA
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1 tvg-id="TvaVicenza.it" tvg-chno="832" group-title="Regionali",TVA VICENZA
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
